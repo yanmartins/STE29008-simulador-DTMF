@@ -6,6 +6,8 @@ Projeto final de Sistemas Embarcados (STE29008) do curso de Engenharia de Teleco
 
 Este projeto consiste na implementação de bibliotecas para um simulador de tons DTMF, destinadas ao Arduino MEGA 2560. Essas bibliotecas foram implementadas utilizando a linguagem de programação C++ e a biblioteca AVR-Libc.
 
+### Introdução ao projeto
+
 O sistema possui um teclado matricial para a inserção e cadastros de sequências, um display LCD 16x2 para exibição dos estados, um telefone Premium Intelbras com um CI HM 91710 gerador de tons DTMF e um Arduino MEGA 2560. Conforme diagrama de blocos visto na figura abaixo:
 
 ![Diagrama de blocos](https://github.com/yanmartins/STE29008-simulador-DTMF/blob/master/imagens/diagrama_de_blocos.PNG)
